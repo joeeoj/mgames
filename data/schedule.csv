@@ -1,0 +1,165 @@
+game_number,game_date,day_of_week,game_time_local,is_home_game,venue,series_number,day_night,home,away,home_game_number
+1,2021-04-01,Thu,07:10 PM,1,T-Mobile Park,1,night,Seattle Mariners,San Francisco Giants,1
+2,2021-04-02,Fri,07:10 PM,1,T-Mobile Park,2,night,Seattle Mariners,San Francisco Giants,2
+3,2021-04-03,Sat,06:10 PM,1,T-Mobile Park,3,night,Seattle Mariners,San Francisco Giants,3
+4,2021-04-05,Mon,07:10 PM,1,T-Mobile Park,1,night,Seattle Mariners,Chicago White Sox,4
+5,2021-04-06,Tue,07:10 PM,1,T-Mobile Park,2,night,Seattle Mariners,Chicago White Sox,5
+6,2021-04-07,Wed,01:10 PM,1,T-Mobile Park,3,day,Seattle Mariners,Chicago White Sox,6
+7,2021-04-08,Thu,01:10 PM,0,Target Field,1,day,Minnesota Twins,Seattle Mariners,
+8,2021-04-10,Sat,11:10 AM,0,Target Field,2,day,Minnesota Twins,Seattle Mariners,
+9,2021-04-11,Sun,11:10 AM,0,Target Field,3,day,Minnesota Twins,Seattle Mariners,
+10,2021-04-12,Mon,04:05 PM,0,Oriole Park at Camden Yards,1,night,Baltimore Orioles,Seattle Mariners,
+11,2021-04-13,Tue,01:05 PM,0,Oriole Park at Camden Yards,1,day,Baltimore Orioles,Seattle Mariners,
+12,2021-04-13,Mon,08:33 PM,0,Oriole Park at Camden Yards,2,night,Baltimore Orioles,Seattle Mariners,
+13,2021-04-14,Wed,04:05 PM,0,Oriole Park at Camden Yards,3,night,Baltimore Orioles,Seattle Mariners,
+14,2021-04-15,Thu,09:35 AM,0,Oriole Park at Camden Yards,3,day,Baltimore Orioles,Seattle Mariners,
+15,2021-04-15,Wed,08:33 PM,0,Oriole Park at Camden Yards,4,night,Baltimore Orioles,Seattle Mariners,
+16,2021-04-16,Fri,07:10 PM,1,T-Mobile Park,1,night,Seattle Mariners,Houston Astros,7
+17,2021-04-17,Sat,06:10 PM,1,T-Mobile Park,2,night,Seattle Mariners,Houston Astros,8
+18,2021-04-18,Sun,01:10 PM,1,T-Mobile Park,3,day,Seattle Mariners,Houston Astros,9
+19,2021-04-19,Mon,07:10 PM,1,T-Mobile Park,1,night,Seattle Mariners,Los Angeles Dodgers,10
+20,2021-04-20,Tue,01:10 PM,1,T-Mobile Park,2,day,Seattle Mariners,Los Angeles Dodgers,11
+21,2021-04-22,Thu,04:10 PM,0,Fenway Park,1,night,Boston Red Sox,Seattle Mariners,
+22,2021-04-23,Fri,04:10 PM,0,Fenway Park,2,night,Boston Red Sox,Seattle Mariners,
+23,2021-04-24,Sat,10:10 AM,0,Fenway Park,3,day,Boston Red Sox,Seattle Mariners,
+24,2021-04-25,Sun,10:10 AM,0,Fenway Park,4,day,Boston Red Sox,Seattle Mariners,
+25,2021-04-26,Mon,05:10 PM,0,Minute Maid Park,1,night,Houston Astros,Seattle Mariners,
+26,2021-04-27,Tue,05:10 PM,0,Minute Maid Park,2,night,Houston Astros,Seattle Mariners,
+27,2021-04-28,Wed,05:10 PM,0,Minute Maid Park,3,night,Houston Astros,Seattle Mariners,
+28,2021-04-29,Thu,11:10 AM,0,Minute Maid Park,4,day,Houston Astros,Seattle Mariners,
+29,2021-04-30,Fri,07:10 PM,1,T-Mobile Park,1,night,Seattle Mariners,Los Angeles Angels,12
+30,2021-05-01,Sat,06:10 PM,1,T-Mobile Park,2,night,Seattle Mariners,Los Angeles Angels,13
+31,2021-05-02,Sun,01:10 PM,1,T-Mobile Park,3,day,Seattle Mariners,Los Angeles Angels,14
+32,2021-05-03,Mon,07:10 PM,1,T-Mobile Park,1,night,Seattle Mariners,Baltimore Orioles,15
+33,2021-05-04,Tue,07:10 PM,1,T-Mobile Park,2,night,Seattle Mariners,Baltimore Orioles,16
+34,2021-05-05,Wed,12:40 PM,1,T-Mobile Park,3,day,Seattle Mariners,Baltimore Orioles,17
+35,2021-05-07,Fri,05:05 PM,0,Globe Life Field,1,night,Texas Rangers,Seattle Mariners,
+36,2021-05-08,Sat,04:05 PM,0,Globe Life Field,2,night,Texas Rangers,Seattle Mariners,
+37,2021-05-09,Sun,11:35 AM,0,Globe Life Field,3,day,Texas Rangers,Seattle Mariners,
+38,2021-05-11,Tue,07:10 PM,0,Dodger Stadium,1,night,Los Angeles Dodgers,Seattle Mariners,
+39,2021-05-12,Wed,07:10 PM,0,Dodger Stadium,2,night,Los Angeles Dodgers,Seattle Mariners,
+40,2021-05-13,Thu,07:10 PM,1,T-Mobile Park,1,night,Seattle Mariners,Cleveland Indians,18
+41,2021-05-14,Fri,07:10 PM,1,T-Mobile Park,2,night,Seattle Mariners,Cleveland Indians,19
+42,2021-05-15,Sat,06:10 PM,1,T-Mobile Park,3,night,Seattle Mariners,Cleveland Indians,20
+43,2021-05-16,Sun,01:10 PM,1,T-Mobile Park,4,day,Seattle Mariners,Cleveland Indians,21
+44,2021-05-17,Mon,07:10 PM,1,T-Mobile Park,1,night,Seattle Mariners,Detroit Tigers,22
+45,2021-05-18,Tue,07:10 PM,1,T-Mobile Park,2,night,Seattle Mariners,Detroit Tigers,23
+46,2021-05-19,Wed,07:10 PM,1,T-Mobile Park,3,night,Seattle Mariners,Detroit Tigers,24
+47,2021-05-21,Fri,07:10 PM,0,Petco Park,1,night,San Diego Padres,Seattle Mariners,
+48,2021-05-22,Sat,05:40 PM,0,Petco Park,2,night,San Diego Padres,Seattle Mariners,
+49,2021-05-23,Sun,01:10 PM,0,Petco Park,3,day,San Diego Padres,Seattle Mariners,
+50,2021-05-24,Mon,06:40 PM,0,Oakland Coliseum,1,night,Oakland Athletics,Seattle Mariners,
+51,2021-05-25,Tue,06:40 PM,0,Oakland Coliseum,2,night,Oakland Athletics,Seattle Mariners,
+52,2021-05-26,Wed,12:37 PM,0,Oakland Coliseum,3,day,Oakland Athletics,Seattle Mariners,
+53,2021-05-27,Thu,07:10 PM,1,T-Mobile Park,1,night,Seattle Mariners,Texas Rangers,25
+54,2021-05-28,Fri,07:10 PM,1,T-Mobile Park,2,night,Seattle Mariners,Texas Rangers,26
+55,2021-05-29,Sat,07:10 PM,1,T-Mobile Park,3,night,Seattle Mariners,Texas Rangers,27
+56,2021-05-30,Sun,01:10 PM,1,T-Mobile Park,4,day,Seattle Mariners,Texas Rangers,28
+57,2021-05-31,Mon,01:10 PM,1,T-Mobile Park,1,day,Seattle Mariners,Oakland Athletics,29
+58,2021-06-01,Tue,07:10 PM,1,T-Mobile Park,2,night,Seattle Mariners,Oakland Athletics,30
+59,2021-06-02,Wed,07:10 PM,1,T-Mobile Park,3,night,Seattle Mariners,Oakland Athletics,31
+60,2021-06-03,Thu,06:38 PM,0,Angel Stadium,1,night,Los Angeles Angels,Seattle Mariners,
+61,2021-06-04,Fri,06:38 PM,0,Angel Stadium,2,night,Los Angeles Angels,Seattle Mariners,
+62,2021-06-05,Sat,07:07 PM,0,Angel Stadium,3,night,Los Angeles Angels,Seattle Mariners,
+63,2021-06-06,Sun,01:07 PM,0,Angel Stadium,4,day,Los Angeles Angels,Seattle Mariners,
+64,2021-06-08,Tue,04:10 PM,0,Comerica Park,1,night,Detroit Tigers,Seattle Mariners,
+65,2021-06-09,Wed,04:10 PM,0,Comerica Park,2,night,Detroit Tigers,Seattle Mariners,
+66,2021-06-10,Thu,10:10 AM,0,Comerica Park,3,day,Detroit Tigers,Seattle Mariners,
+67,2021-06-11,Fri,04:10 PM,0,Progressive Field,1,night,Cleveland Indians,Seattle Mariners,
+68,2021-06-12,Sat,01:10 PM,0,Progressive Field,2,day,Cleveland Indians,Seattle Mariners,
+69,2021-06-13,Sun,10:10 AM,0,Progressive Field,3,day,Cleveland Indians,Seattle Mariners,
+70,2021-06-14,Mon,07:10 PM,1,T-Mobile Park,1,night,Seattle Mariners,Minnesota Twins,32
+71,2021-06-15,Tue,07:10 PM,1,T-Mobile Park,2,night,Seattle Mariners,Minnesota Twins,33
+72,2021-06-16,Wed,07:10 PM,1,T-Mobile Park,3,night,Seattle Mariners,Minnesota Twins,34
+73,2021-06-17,Thu,07:10 PM,1,T-Mobile Park,1,night,Seattle Mariners,Tampa Bay Rays,35
+74,2021-06-18,Fri,07:10 PM,1,T-Mobile Park,2,night,Seattle Mariners,Tampa Bay Rays,36
+75,2021-06-19,Sat,07:10 PM,1,T-Mobile Park,3,night,Seattle Mariners,Tampa Bay Rays,37
+76,2021-06-20,Sun,01:10 PM,1,T-Mobile Park,4,day,Seattle Mariners,Tampa Bay Rays,38
+77,2021-06-22,Tue,07:10 PM,1,T-Mobile Park,1,night,Seattle Mariners,Colorado Rockies,39
+78,2021-06-23,Wed,01:10 PM,1,T-Mobile Park,2,day,Seattle Mariners,Colorado Rockies,40
+79,2021-06-25,Fri,05:10 PM,0,Guaranteed Rate Field,1,night,Chicago White Sox,Seattle Mariners,
+80,2021-06-26,Sat,11:10 AM,0,Guaranteed Rate Field,2,day,Chicago White Sox,Seattle Mariners,
+81,2021-06-27,Sun,11:10 AM,0,Guaranteed Rate Field,3,day,Chicago White Sox,Seattle Mariners,
+82,2021-06-29,Tue,04:07 PM,0,Sahlen Field,1,night,Toronto Blue Jays,Seattle Mariners,
+83,2021-06-30,Wed,04:07 PM,0,Sahlen Field,2,night,Toronto Blue Jays,Seattle Mariners,
+84,2021-07-01,Thu,10:07 AM,0,Sahlen Field,3,day,Toronto Blue Jays,Seattle Mariners,
+85,2021-07-02,Fri,07:10 PM,1,T-Mobile Park,1,night,Seattle Mariners,Texas Rangers,41
+86,2021-07-03,Sat,07:10 PM,1,T-Mobile Park,2,night,Seattle Mariners,Texas Rangers,42
+87,2021-07-04,Sun,01:10 PM,1,T-Mobile Park,3,day,Seattle Mariners,Texas Rangers,43
+88,2021-07-06,Tue,07:10 PM,1,T-Mobile Park,1,night,Seattle Mariners,New York Yankees,44
+89,2021-07-07,Wed,07:10 PM,1,T-Mobile Park,2,night,Seattle Mariners,New York Yankees,45
+90,2021-07-08,Thu,01:10 PM,1,T-Mobile Park,3,day,Seattle Mariners,New York Yankees,46
+91,2021-07-09,Fri,07:10 PM,1,T-Mobile Park,1,night,Seattle Mariners,Los Angeles Angels,47
+92,2021-07-10,Sat,07:10 PM,1,T-Mobile Park,2,night,Seattle Mariners,Los Angeles Angels,48
+93,2021-07-11,Sun,01:10 PM,1,T-Mobile Park,3,day,Seattle Mariners,Los Angeles Angels,49
+94,2021-07-16,Fri,06:38 PM,0,Angel Stadium,4,night,Los Angeles Angels,Seattle Mariners,
+95,2021-07-17,Sat,06:07 PM,0,Angel Stadium,5,night,Los Angeles Angels,Seattle Mariners,
+96,2021-07-18,Sun,01:07 PM,0,Angel Stadium,6,day,Los Angeles Angels,Seattle Mariners,
+97,2021-07-20,Tue,05:40 PM,0,Coors Field,1,night,Colorado Rockies,Seattle Mariners,
+98,2021-07-21,Wed,12:10 PM,0,Coors Field,2,day,Colorado Rockies,Seattle Mariners,
+99,2021-07-22,Thu,07:10 PM,1,T-Mobile Park,1,night,Seattle Mariners,Oakland Athletics,50
+100,2021-07-23,Fri,07:10 PM,1,T-Mobile Park,2,night,Seattle Mariners,Oakland Athletics,51
+101,2021-07-24,Sat,07:10 PM,1,T-Mobile Park,3,night,Seattle Mariners,Oakland Athletics,52
+102,2021-07-25,Sun,01:10 PM,1,T-Mobile Park,4,day,Seattle Mariners,Oakland Athletics,53
+103,2021-07-26,Mon,07:10 PM,1,T-Mobile Park,1,night,Seattle Mariners,Houston Astros,54
+104,2021-07-27,Tue,07:10 PM,1,T-Mobile Park,2,night,Seattle Mariners,Houston Astros,55
+105,2021-07-28,Wed,12:40 PM,1,T-Mobile Park,3,day,Seattle Mariners,Houston Astros,56
+106,2021-07-30,Fri,05:05 PM,0,Globe Life Field,1,night,Texas Rangers,Seattle Mariners,
+107,2021-07-31,Sat,04:05 PM,0,Globe Life Field,2,night,Texas Rangers,Seattle Mariners,
+108,2021-08-01,Sun,11:35 AM,0,Globe Life Field,3,day,Texas Rangers,Seattle Mariners,
+109,2021-08-02,Mon,04:10 PM,0,Tropicana Field,1,night,Tampa Bay Rays,Seattle Mariners,
+110,2021-08-03,Tue,04:10 PM,0,Tropicana Field,2,night,Tampa Bay Rays,Seattle Mariners,
+111,2021-08-04,Wed,10:10 AM,0,Tropicana Field,3,day,Tampa Bay Rays,Seattle Mariners,
+112,2021-08-05,Thu,04:05 PM,0,Yankee Stadium,1,night,New York Yankees,Seattle Mariners,
+113,2021-08-06,Fri,04:05 PM,0,Yankee Stadium,2,night,New York Yankees,Seattle Mariners,
+114,2021-08-07,Sat,10:05 AM,0,Yankee Stadium,3,day,New York Yankees,Seattle Mariners,
+115,2021-08-08,Sun,10:05 AM,0,Yankee Stadium,4,day,New York Yankees,Seattle Mariners,
+116,2021-08-10,Tue,07:10 PM,1,T-Mobile Park,1,night,Seattle Mariners,Texas Rangers,57
+117,2021-08-11,Wed,07:10 PM,1,T-Mobile Park,2,night,Seattle Mariners,Texas Rangers,58
+118,2021-08-12,Thu,01:10 PM,1,T-Mobile Park,3,day,Seattle Mariners,Texas Rangers,59
+119,2021-08-13,Fri,07:10 PM,1,T-Mobile Park,1,night,Seattle Mariners,Toronto Blue Jays,60
+120,2021-08-14,Sat,07:10 PM,1,T-Mobile Park,2,night,Seattle Mariners,Toronto Blue Jays,61
+121,2021-08-15,Sun,01:10 PM,1,T-Mobile Park,3,day,Seattle Mariners,Toronto Blue Jays,62
+122,2021-08-17,Tue,05:05 PM,0,Globe Life Field,1,night,Texas Rangers,Seattle Mariners,
+123,2021-08-18,Wed,05:05 PM,0,Globe Life Field,2,night,Texas Rangers,Seattle Mariners,
+124,2021-08-19,Thu,11:05 AM,0,Globe Life Field,3,day,Texas Rangers,Seattle Mariners,
+125,2021-08-20,Fri,05:10 PM,0,Minute Maid Park,1,night,Houston Astros,Seattle Mariners,
+126,2021-08-21,Sat,04:10 PM,0,Minute Maid Park,2,night,Houston Astros,Seattle Mariners,
+127,2021-08-22,Sun,11:10 AM,0,Minute Maid Park,3,day,Houston Astros,Seattle Mariners,
+128,2021-08-23,Mon,06:40 PM,0,Oakland Coliseum,1,night,Oakland Athletics,Seattle Mariners,
+129,2021-08-24,Tue,12:37 PM,0,Oakland Coliseum,2,day,Oakland Athletics,Seattle Mariners,
+130,2021-08-26,Thu,07:10 PM,1,T-Mobile Park,1,night,Seattle Mariners,Kansas City Royals,63
+131,2021-08-27,Fri,07:10 PM,1,T-Mobile Park,2,night,Seattle Mariners,Kansas City Royals,64
+132,2021-08-28,Sat,01:10 PM,1,T-Mobile Park,3,day,Seattle Mariners,Kansas City Royals,65
+133,2021-08-29,Sun,01:10 PM,1,T-Mobile Park,4,day,Seattle Mariners,Kansas City Royals,66
+134,2021-08-30,Mon,07:10 PM,1,T-Mobile Park,1,night,Seattle Mariners,Houston Astros,67
+135,2021-08-31,Tue,07:10 PM,1,T-Mobile Park,2,night,Seattle Mariners,Houston Astros,68
+136,2021-09-01,Wed,01:10 PM,1,T-Mobile Park,3,day,Seattle Mariners,Houston Astros,69
+137,2021-09-03,Fri,06:40 PM,0,Chase Field,1,night,Arizona Diamondbacks,Seattle Mariners,
+138,2021-09-04,Sat,05:10 PM,0,Chase Field,2,night,Arizona Diamondbacks,Seattle Mariners,
+139,2021-09-05,Sun,01:10 PM,0,Chase Field,3,day,Arizona Diamondbacks,Seattle Mariners,
+140,2021-09-06,Mon,04:10 PM,0,Minute Maid Park,1,night,Houston Astros,Seattle Mariners,
+141,2021-09-07,Tue,05:10 PM,0,Minute Maid Park,2,night,Houston Astros,Seattle Mariners,
+142,2021-09-08,Wed,11:10 AM,0,Minute Maid Park,3,day,Houston Astros,Seattle Mariners,
+143,2021-09-10,Fri,07:10 PM,1,T-Mobile Park,1,night,Seattle Mariners,Arizona Diamondbacks,70
+144,2021-09-11,Sat,06:10 PM,1,T-Mobile Park,2,night,Seattle Mariners,Arizona Diamondbacks,71
+145,2021-09-12,Sun,01:10 PM,1,T-Mobile Park,3,day,Seattle Mariners,Arizona Diamondbacks,72
+146,2021-09-13,Mon,07:10 PM,1,T-Mobile Park,1,night,Seattle Mariners,Boston Red Sox,73
+147,2021-09-14,Tue,07:10 PM,1,T-Mobile Park,2,night,Seattle Mariners,Boston Red Sox,74
+148,2021-09-15,Wed,01:10 PM,1,T-Mobile Park,3,day,Seattle Mariners,Boston Red Sox,75
+149,2021-09-17,Fri,05:10 PM,0,Kauffman Stadium,1,night,Kansas City Royals,Seattle Mariners,
+150,2021-09-18,Sat,04:10 PM,0,Kauffman Stadium,2,night,Kansas City Royals,Seattle Mariners,
+151,2021-09-19,Sun,11:10 AM,0,Kauffman Stadium,3,day,Kansas City Royals,Seattle Mariners,
+152,2021-09-20,Mon,06:40 PM,0,Oakland Coliseum,1,night,Oakland Athletics,Seattle Mariners,
+153,2021-09-21,Tue,06:40 PM,0,Oakland Coliseum,2,night,Oakland Athletics,Seattle Mariners,
+154,2021-09-22,Wed,06:40 PM,0,Oakland Coliseum,3,night,Oakland Athletics,Seattle Mariners,
+155,2021-09-23,Thu,12:37 PM,0,Oakland Coliseum,4,day,Oakland Athletics,Seattle Mariners,
+156,2021-09-24,Fri,06:38 PM,0,Angel Stadium,1,night,Los Angeles Angels,Seattle Mariners,
+157,2021-09-25,Sat,06:07 PM,0,Angel Stadium,2,night,Los Angeles Angels,Seattle Mariners,
+158,2021-09-26,Sun,01:07 PM,0,Angel Stadium,3,day,Los Angeles Angels,Seattle Mariners,
+159,2021-09-27,Mon,07:10 PM,1,T-Mobile Park,1,night,Seattle Mariners,Oakland Athletics,76
+160,2021-09-28,Tue,07:10 PM,1,T-Mobile Park,2,night,Seattle Mariners,Oakland Athletics,77
+161,2021-09-29,Wed,07:10 PM,1,T-Mobile Park,3,night,Seattle Mariners,Oakland Athletics,78
+162,2021-10-01,Fri,07:10 PM,1,T-Mobile Park,1,night,Seattle Mariners,Los Angeles Angels,79
+163,2021-10-02,Sat,06:10 PM,1,T-Mobile Park,2,night,Seattle Mariners,Los Angeles Angels,80
+164,2021-10-03,Sun,12:10 PM,1,T-Mobile Park,3,day,Seattle Mariners,Los Angeles Angels,81
