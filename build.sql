@@ -30,6 +30,12 @@ CREATE TABLE IF NOT EXISTS owners (
     FOREIGN KEY (home_game_number) REFERENCES schedule(home_game_number)
 );
 
+CREATE TABLE IF NOT EXISTS postponed (
+    game_number INTEGER PRIMARY KEY,
+    game_date DATE,
+    FOREIGN KEY (game_number) REFERENCES schedule(game_number)
+);
+
 CREATE VIEW IF NOT EXISTS home_games AS
 
 SELECT DISTINCT
@@ -72,6 +78,7 @@ HAVING COUNT(*) > 1
 .import --skip 1 ./data/schedule.csv schedule
 .import --skip 1 ./data/blocks.csv blocks
 .import --skip 1 ./data/owners.csv owners
+.import --skip 1 ./data/postponed.csv postponed
 
 PRAGMA foreign_keys=true;
 
