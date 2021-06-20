@@ -1,3 +1,6 @@
+.mode csv
+.header on
+
 .open games.db
 
 CREATE TABLE IF NOT EXISTS schedule (
@@ -21,7 +24,13 @@ CREATE TABLE IF NOT EXISTS blocks (
     FOREIGN KEY (game_number) REFERENCES schedule(game_number)
 );
 
-CREATE VIEW IF NOT EXISTS upcoming_home_games AS
+CREATE TABLE IF NOT EXISTS owners (
+    home_game_number INTEGER PRIMARY KEY,
+    owner TEXT,
+    FOREIGN KEY (home_game_number) REFERENCES schedule(home_game_number)
+);
+
+CREATE VIEW IF NOT EXISTS home_games AS
 
 SELECT DISTINCT
     s.game_number
@@ -33,18 +42,36 @@ SELECT DISTINCT
     ,s.day_night
     ,s.away
     ,b.blockset
+    ,o.owner
 FROM schedule s
 JOIN blocks b
     ON s.game_number = b.game_number
-WHERE
-    s.game_date >= CURRENT_DATE
+LEFT JOIN owners o
+    ON s.home_game_number = o.home_game_number
 ;
 
-.headers on
-.mode csv
+CREATE VIEW IF NOT EXISTS available_home_games AS
+SELECT *
+FROM home_games
+WHERE
+    game_date > CURRENT_DATE
+    AND (owner IS NULL OR owner != 'M')
+;
 
-.import ./data/schedule.csv schedule
-.import ./data/blocks.csv blocks
+CREATE VIEW IF NOT EXISTS double_headers AS
+SELECT
+    game_date
+    ,home
+    ,away
+    ,COUNT(*) as cnt
+FROM schedule
+GROUP BY 1
+HAVING COUNT(*) > 1
+;
+
+.import --skip 1 ./data/schedule.csv schedule
+.import --skip 1 ./data/blocks.csv blocks
+.import --skip 1 ./data/owners.csv owners
 
 PRAGMA foreign_keys=true;
 
